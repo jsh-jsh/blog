@@ -12,6 +12,7 @@
     "hexo-admin": "^2.3.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly-artitalk": "^1.0.2",
+    "hexo-butterfly-hpptalk": "^1.0.3",
     "hexo-component-inferno": "^0.10.1",
     "hexo-deployer-git": "^3.0.0",
     "hexo-filter-auto-spacing": "^0.2.1",

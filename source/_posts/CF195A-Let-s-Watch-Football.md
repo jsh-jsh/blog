@@ -1,8 +1,10 @@
+---
 title: CF195A-Let's Watch Football
 author: Jinshuhang
 tags:
   - oi
 categories: []
+abbrlink: 13193
 date: 2021-03-24 22:00:00
 ---
 这题不难，运用乘法分配律可以解出。

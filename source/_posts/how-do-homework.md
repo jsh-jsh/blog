@@ -1,8 +1,10 @@
+---
 title: how-do-homework
 author: Jinshuhang
 tags:
   - happy
 categories: []
+abbrlink: 28500
 date: 2021-03-24 21:55:00
 ---
 ## 前言

@@ -1,8 +1,10 @@
+---
 title: STL
 author: Jinshuhang
 tags:
   - oi
 categories: []
+abbrlink: 9423
 date: 2021-03-24 21:59:00
 ---
 STL

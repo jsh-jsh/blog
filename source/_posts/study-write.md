@@ -1,5 +1,7 @@
+---
 title: study-write
 author: Jinshuhang
+abbrlink: 52365
 date: 2021-03-24 21:57:50
 tags:
 ---

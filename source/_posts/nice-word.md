@@ -1,8 +1,10 @@
+---
 title: nice-word
 author: Jinshuhang
 tags:
   - words
 categories: []
+abbrlink: 14298
 date: 2021-03-24 21:57:00
 ---
 **众里寻他千百度，蓦然回首，那人却在灯火阑珊处**   

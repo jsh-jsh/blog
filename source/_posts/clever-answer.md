@@ -1,8 +1,10 @@
+---
 title: clever-answer
 author: Jinshuhang
 tags:
   - happy
 categories: []
+abbrlink: 62485
 date: 2021-03-24 21:59:00
 ---
 回答的智慧
