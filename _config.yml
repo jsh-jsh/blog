@@ -112,4 +112,13 @@ math:
   engine: 'mathjax'
   mathjax:
     src: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML 
- 
+
+local_search:
+  enable: true
+  labels:
+    input_placeholder: Search for Posts
+    hits_empty: "We didn't find any results for the search: ${query}" # 如果没有查到内容相关内容显示
+
+lazyload:
+  enable: true
+  loadingImg: /img/loading.gif

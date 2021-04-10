@@ -864,7 +864,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    #14:56 2021/4/3
+    - <meta name="msvalidate.01" content="04099DF5904654829377101F8D6EF156" />
   bottom:
     # - <script src="xxxx"></script>
 
