@@ -458,7 +458,7 @@ google_adsense:
   client:
   enable_page_level_ads: true
 
-# Insert ads manually (手動插入廣告)
+# Insert ads manually (手動廣告)
 # ad:
 #   index:
 #   aside:
@@ -865,6 +865,7 @@ css_prefix: true
 inject:
   head:
     - <meta name="msvalidate.01" content="04099DF5904654829377101F8D6EF156" />
+    - <link href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/style/heimu.css" rel="stylesheet" type="text/css" />
   bottom:
     # - <script src="xxxx"></script>
 
