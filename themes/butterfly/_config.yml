@@ -18,6 +18,7 @@ menu:
    About: /about/ || fas fa-heart
    Said: /hpptalk/
    say_to_me: /comments/
+   admin: /hpp/admin/
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
