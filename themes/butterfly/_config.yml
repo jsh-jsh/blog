@@ -19,6 +19,7 @@ menu:
    Said: /hpptalk/
    say_to_me: /comments/
    admin: /hpp/admin/
+   cool: /cool/
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
