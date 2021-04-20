@@ -18,7 +18,7 @@ menu:
    About: /about/ || fas fa-heart
    Said: /hpptalk/
    say_to_me: /comments/
-   admin: /hpp/admin/
+   admin: https://tiny-shadow-d830.oierjsh.workers.dev/hpp/admin
    cool: /cool/
 
 # Hide the child menu items in mobile sidebar
