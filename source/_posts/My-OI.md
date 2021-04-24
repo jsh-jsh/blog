@@ -4,6 +4,8 @@ abbrlink: 40272
 
 title: My-OI
 
+data: 2021-1-20
+
 tags: oi
 
 
