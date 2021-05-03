@@ -979,6 +979,6 @@ hpptalk:
   limit:
   start:
   js:
-  css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/theme/hpp_user_talk/bfonion.css
+  css: 
   option:
   front_matter:
