@@ -16,7 +16,7 @@ menu:
   #   Movie: /movies/ || fas fa-video
    friend: /friend/ || fas fa-link
    About: /about/ || fas fa-heart
-   Said: /artitalk/
+   Said: /talk/
    say_to_me: /comments/
    admin: https://tiny-shadow-d830.oierjsh.workers.dev/hpp/admin
    cool: /cool/
@@ -266,7 +266,7 @@ comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
   use:
-   - Valine
+   - Waline
   # - Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -315,8 +315,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: AunaLyjdrDjwCthLGMOJ9ynJ-MdYXbMMI # leancloud application app id
-  appKey: xKXYjRt0R3JCAb0crcJ637GQ # leancloud application app key
+  appId:  # leancloud application app id
+  appKey:  # leancloud application app key
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
   lang: zh-CN # i18n: zh-CN/zh-TW/en/ja
@@ -962,9 +962,9 @@ CDN:
 # Artitalk
   # see https://artitalk.js.org/
 artitalk:
-    enable: true
-    appId: AunaLyjdrDjwCthLGMOJ9ynJ-MdYXbMMI
-    appKey: xKXYjRt0R3JCAb0crcJ637GQ
+    enable: false
+    appId: 
+    appKey: 
     path:
     js:
     option:
@@ -973,9 +973,9 @@ artitalk:
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
 hpptalk:
-  enable: false
-  domain: blog.jinshuhang.tk
-  path: 
+  enable: true
+  domain: tiny-shadow-d830.oierjsh.workers.dev
+  path: talk/
   limit:
   start:
   js:
