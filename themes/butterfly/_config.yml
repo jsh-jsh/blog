@@ -962,7 +962,7 @@ CDN:
 # Artitalk
   # see https://artitalk.js.org/
 artitalk:
-    enable: false
+    enable: true
     appId: 
     appKey: 
     path:
