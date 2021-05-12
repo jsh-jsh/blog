@@ -967,6 +967,7 @@ artitalk:
     appKey: 
     path:
     js:
+    serverURL: 'https://royal-wind-5edc.oierjsh.workers.dev'
     option:
     front_matter:
 
