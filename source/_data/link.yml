@@ -1,13 +1,8 @@
-class:
-  class_name: 友情链接
+- class_name: 友情链接
   link_list:
-    1:
-      name: Push_Y 的博客
+    - name: Push_Y 的博客
       link: https://wzsyyh.ml/
       avatar: https://wzsyyh.ml/images/avatar.png
       descr: Push_Y 的博客
 
 
-class2:
-   class_name: 链接无效
-   link_list: 
