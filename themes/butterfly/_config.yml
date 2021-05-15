@@ -963,12 +963,12 @@ CDN:
   # see https://artitalk.js.org/
 artitalk:
     enable: true
-    appId: 
-    appKey: 
+    appId: asdfghgj
+    appKey: asdfgh
     path:
     js:
-    serverURL: 'https://royal-wind-5edc.oierjsh.workers.dev'
     option:
+      serverURL: 'https://royal-wind-5edc.oierjsh.workers.dev'
     front_matter:
 
 # HexoPlusPlus Talk
