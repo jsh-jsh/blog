@@ -16,7 +16,7 @@ menu:
   #   Movie: /movies/ || fas fa-video
    friend: /friend/ || fas fa-link
    About: /about/ || fas fa-heart
-   Said: /talk/
+   Said: /artitalk/
    say_to_me: /comments/
    admin: https://tiny-shadow-d830.oierjsh.workers.dev/hpp/admin
    cool: /cool/
@@ -974,7 +974,7 @@ artitalk:
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
 hpptalk:
-  enable: true
+  enable: false
   domain: blog.jinshuhang.tk
   path: /talk/
   limit:
