@@ -341,10 +341,10 @@ waline:
   serverURL: https://waline-jsh-jsh.vercel.app/ # Waline server address url
   avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
   emojiCDN: https://cdn.jsdelivr.net/gh/GamerNoTitle/ValineCDN@master/ # emoji CDN
+  emojiMaps: {} # 存放表情yaml文件的
   bg: # waline background
   visitor: true
   option:
-   emojiMaps: {} # 存放表情yaml文件的
 
 # utterances
 # https://utteranc.es/
