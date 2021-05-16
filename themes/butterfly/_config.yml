@@ -340,7 +340,7 @@ valine:
 waline:
   serverURL: https://waline-jsh-jsh.vercel.app/ # Waline server address url
   avatar: monsterid # gravatar style https://zh-tw.gravatar.com/site/implement/images/#default-image
-  emojiCDN: https://mirrorcdn.bili33.top/ # emoji CDN
+  emojiCDN: hhttps://gamernotitle.coding.net/p/ValineCDN/d/ValineCDN/git/raw/master/ # emoji CDN
   bg: # waline background
   visitor: true
   option:
@@ -665,7 +665,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/jsh-jsh
   card_announcement:
     enable: true
     content: This is my Blog
