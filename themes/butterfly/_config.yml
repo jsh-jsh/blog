@@ -344,6 +344,7 @@ waline:
   bg: # waline background
   visitor: true
   option:
+   emojiMaps: {} # 存放表情yaml文件的
 
 # utterances
 # https://utteranc.es/
