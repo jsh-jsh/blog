@@ -265,7 +265,6 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/
-  /Utterances/Facebook Comments/Twikoo
   use:
    - Waline
   # - Disqus
