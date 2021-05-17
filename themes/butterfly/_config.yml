@@ -403,8 +403,8 @@ daovoice:
 # gitter
 # https://gitter.im/
 gitter:
-  enable: false
-  room:
+  enable: true
+  room: oier-liaotian
 
 # crisp
 # https://crisp.chat/en/
