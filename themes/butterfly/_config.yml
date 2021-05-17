@@ -894,7 +894,7 @@ CDN:
   disqusjs_css: https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css
   utterances: https://utteranc.es/client.js
   twikoo: https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js
-  waline: https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js
+  waline: https://cdn.jsdelivr.net/gh/jsh-jsh/blogCDN/waline.js
 
   # share
   addtoany: https://static.addtoany.com/menu/page.js
