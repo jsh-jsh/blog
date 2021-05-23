@@ -95,14 +95,14 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog-img@latest/wnmb8k00.png
+index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog@master/source/cdn/wnmb8k00.png
 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://tenapi.cn/acg/
+default_top_img: 
 
 # The banner image of archive page
-archive_img: https://tenapi.cn/acg/
+archive_img: 
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
@@ -115,7 +115,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: https://tenapi.cn/acg/
+category_img: 
 
 # The banner image of category page
 # format:
