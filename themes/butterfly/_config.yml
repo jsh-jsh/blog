@@ -99,7 +99,7 @@ index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog@master/source/cdn/wnmb8k00.p
 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: https://i.loli.net/2021/02/24/qjYfzrNuIU1oaPk.jpg
 
 # The banner image of archive page
 archive_img: 
