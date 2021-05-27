@@ -1,6 +1,6 @@
 ---
 title: 留言板
-top_img:
+comment: true
 ---
 
 <link rel="stylesheet" href="/css/commentsbar.css"/>
@@ -13,7 +13,7 @@ top_img:
               <img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg"/>
               <div style="padding: 5px 20px;">
                 <center>
-                  <h3 calss="title3">来自Akilar的留言:</h3>
+                  <h3 calss="title3">来自jsh的留言:</h3>
                 </center>
                 <center class="comments">
                   有什么想问的？<br>
@@ -37,7 +37,7 @@ top_img:
       <div class="formmain"><img class="headerimg" src="https://ae01.alicdn.com/kf/U5bb04af32be544c4b41206d9a42fcacfd.jpg" />
         <div style="padding: 5px 20px;">
           <center>
-            <h3 class="title3">来自Akilar的留言:</h3>
+            <h3 class="title3">来自jsh的留言:</h3>
           </center>
           <center class="comments">
             有什么想问的？<br>
