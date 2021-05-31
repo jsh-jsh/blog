@@ -1,6 +1,6 @@
 ---
 title: Hello World
-data: 2020.1.1
+data: 2020-1-1
 tags: hello
 abbrlink: 16107
 ---
