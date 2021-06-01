@@ -32,7 +32,7 @@ highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
 highlight_height_limit: false # unit: px
-code_word_wrap: false
+code_word_wrap: true
 
 # copy settings
 # copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
@@ -88,8 +88,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  img: https://i.loli.net/2021/02/24/qjYfzrNuIU1oaPk.jpg
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
@@ -102,11 +102,11 @@ index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog@master/source/cdn/wnmb8k00.p
 default_top_img: https://i.loli.net/2021/02/24/qjYfzrNuIU1oaPk.jpg
 
 # The banner image of archive page
-archive_img: 
+archive_img: https://i.loli.net/2021/02/24/ucyi9mOYjqsfHGX.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://i.loli.net/2021/02/24/R1IBSYZg2FJGuEd.jpg
 
 # The banner image of tag page
 # format:
@@ -115,7 +115,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: 
+category_img: https://i.loli.net/2021/02/24/JgWBs94dLlOCwZu.jpg
 
 # The banner image of category page
 # format:
