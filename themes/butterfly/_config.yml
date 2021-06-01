@@ -106,7 +106,7 @@ archive_img: https://i.loli.net/2021/02/24/ucyi9mOYjqsfHGX.jpg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://i.loli.net/2021/02/24/R1IBSYZg2FJGuEd.jpg
+tag_img:
 
 # The banner image of tag page
 # format:
