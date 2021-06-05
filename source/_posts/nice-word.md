@@ -2,8 +2,8 @@
 title: nice-word
 author: Jinshuhang
 tags:
-  - words
-categories: []
+  - 文艺
+categories: 文艺
 abbrlink: 14298
 date: 2021-03-24 21:57:00
 ---
