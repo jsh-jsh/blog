@@ -3,7 +3,7 @@ title: CF195A-Let's Watch Football
 author: Jinshuhang
 tags:
   - oi
-categories: []
+categories: 题解
 abbrlink: 13193
 date: 2021-03-24 22:00:00
 ---
