@@ -71,7 +71,7 @@ local_search:
 
 # MathJax
 mathjax:
-  enable: true
+  enable: false
   per_page: false
 
 # KaTeX
@@ -89,7 +89,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: false
@@ -115,7 +115,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img: 
+category_img:
 
 # The banner image of category page
 # format:
@@ -644,7 +644,8 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: '春有百花秋有月，夏有凉风冬有雪'
+  sub: 
+   - 春有百花秋有月，夏有凉风冬有雪
 
 # Loading Animation (加載動畫)
 preloader: false
@@ -739,7 +740,7 @@ change_font_size: false
 translate:
   enable: true
   # The text of a button
-  default: 繁
+  default: '繁'
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -833,7 +834,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: false
+  enable: true
   field: site # site/post
 
 # Lazyload (圖片懶加載)
