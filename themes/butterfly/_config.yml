@@ -868,6 +868,7 @@ inject:
   head:
     - <meta name="msvalidate.01" content="04099DF5904654829377101F8D6EF156" />
     - <link href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/style/heimu.css" rel="stylesheet" type="text/css" />
+    - <meta name="google-site-verification" content="0E_AM48ES4XYwShTo3o_c_wgKPaczomTgihB6b4Nm-E" />
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
