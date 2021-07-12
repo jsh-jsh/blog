@@ -95,7 +95,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog@master/source/cdn/wnmb8k00.png
+index_img: https://cdn.jsdelivr.net/gh/jsh-jsh/blog@master/source/cdn/wnmb8k00.webp
 
 
 # If the banner of page not setting, it will show the top_img
