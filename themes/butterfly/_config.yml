@@ -403,7 +403,7 @@ daovoice:
 # gitter
 # https://gitter.im/
 gitter:
-  enable: true
+  enable: false
   room: oier-liaotian
 
 # crisp
