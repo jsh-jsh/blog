@@ -88,8 +88,8 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
-  effect: true
+  img: https://i.loli.net/2021/08/01/mBuv1YnIkZWfMHb.png
+  effect: false
 
 # Disable all banner image
 disable_top_img: true
@@ -627,7 +627,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # loop (循環打字)
@@ -644,8 +644,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: 
-   - '春有百花秋有月，夏有凉风冬有雪'
+  sub: 春有百花秋有月&#44夏有凉风冬有雪
 
 # Loading Animation (加載動畫)
 preloader: false
