@@ -977,7 +977,7 @@ artitalk:
 # see https://hexoplusplus.js.org
 hpptalk:
   enable: true
-  domain: blog.jshang.cf
+  domain: tiny-shadow-d830.oierjsh.workers.dev
   path: /artitalk/
   limit: 10
   start: 0
