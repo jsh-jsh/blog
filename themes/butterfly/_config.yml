@@ -977,7 +977,7 @@ artitalk:
 # see https://hexoplusplus.js.org
 hpptalk:
   enable: true
-  domain: blog.jinshuhang.tk
+  domain: blog.jshang.cf
   path: /artitalk/
   limit: 10
   start: 0
