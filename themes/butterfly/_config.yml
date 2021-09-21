@@ -964,7 +964,7 @@ CDN:
 # Artitalk
   # see https://artitalk.js.org/
 artitalk:
-    enable: true
+    enable: false
     appId: asdfghgj
     appKey: asdfgh
     path:
@@ -976,12 +976,12 @@ artitalk:
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
 hpptalk:
-  enable: false
+  enable: true
   domain: blog.jinshuhang.tk
-  path: /talk/
-  limit:
-  start:
+  path: /artitalk/
+  limit: 10
+  start: 0
   js:
-  css: 
+  css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/theme/hpp_user_talk/bfonion.css
   option:
   front_matter:
