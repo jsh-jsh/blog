@@ -977,11 +977,11 @@ artitalk:
 # see https://hexoplusplus.js.org
 hpptalk:
   enable: true
-  domain: tiny-shadow-d830.oierjsh.workers.dev
+  domain: admin.jshang.cf
   path: /artitalk/
   limit: 10
   start: 0
   js:
-  css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/theme/hpp_user_talk/bfonion.css
+  css: 'https://cdn.jsdelivr.net/gh/HexoPlusPlus/CDN@master/plugin/theme/hpp_user_talk/bfonion.css'
   option:
   front_matter:
