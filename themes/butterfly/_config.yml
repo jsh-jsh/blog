@@ -344,6 +344,8 @@ waline:
   bg: # waline background
   visitor: true
   option:
+    GITHUB_TOKEN: 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
+    GITHUB_REPO: jsh-jsh/blog-action
 
 # utterances
 # https://utteranc.es/
