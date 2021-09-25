@@ -839,7 +839,7 @@ pangu:
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/lazyload
 lazyload:
-  enable: true
+  enable: false
   post: /img/loading.gif
 
 # PWA
