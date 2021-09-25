@@ -367,7 +367,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo-iyi6d4q2n-jsh-jsh.vercel.app/
+  envId: https://twikoo-jsh-jsh.vercel.app
   region:
   visitor: false
   option:
