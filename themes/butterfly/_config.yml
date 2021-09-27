@@ -18,7 +18,7 @@ menu:
    About: /about/ || fas fa-heart
    Said: /artitalk/
    say_to_me: /comments/
-   admin: https://tiny-shadow-d830.oierjsh.workers.dev/hpp/admin
+   admin: admin.jshang.cf
    cool: /cool/
 
 # Hide the child menu items in mobile sidebar
