@@ -1,6 +1,6 @@
 ---
 title: 家长直呼太暴力，这些算法被删除
-date: {{ date }}
+date: 2021-10-21
 tags: oi
 categories:  整活
 ---
