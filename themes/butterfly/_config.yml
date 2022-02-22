@@ -18,7 +18,7 @@ menu:
    About: /about/ || fas fa-heart
    Said: /artitalk/
    say_to_me: /comments/
-   admin: https://qexo-bice.vercel.app/
+   admin: https://qexo-jsh-jsh.vercel.app/
    cool: /cool/
 
 # Hide the child menu items in mobile sidebar
