@@ -965,12 +965,12 @@ CDN:
   # see https://artitalk.js.org/
 artitalk:
     enable: true
-    appId: asdfghgj
-    appKey: asdfgh
+    appId: AunaLyjdrDjwCthLGMOJ9ynJ-MdYXbMMI
+    appKey: xKXYjRt0R3JCAb0crcJ637GQ
     path:
     js:
     option:
-      serverURL: 'https://royal-wind-5edc.oierjsh.workers.dev'
+      serverURL: 'https://api.imoier.xyz'
     front_matter:
 
 # HexoPlusPlus Talk
