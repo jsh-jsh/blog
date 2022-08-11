@@ -418,7 +418,7 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text:
+  custom_text: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank" rel="noopener nofollow"><img style="position:relative;top:-2.5px;" src="https://cdn.jsdelivr.net/gh/caibhh/CDN/img/blog/%E5%8F%88%E6%8B%8D%E4%BA%91_logo5.webp" align="absmiddle" width="60px" height="30px">提供加速服务</a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
