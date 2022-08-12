@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://blog.jinshuhang.tk/
+url: https://blog.imoier.xyz/
 root: /
 permalink: posts/:abbrlink/ # :year/:month/:day/:title/
 permalink_defaults:
@@ -116,8 +116,8 @@ math:
 local_search:
   enable: true
   labels:
-    input_placeholder: Search for Posts
-    hits_empty: "We didn't find any results for the search: ${query}" # 如果没有查到内容相关内容显示
+    input_placeholder: 搜索文章
+    hits_empty: "对于 ${query} 没有任何信息" # 如果没有查到内容相关内容显示
 
 lazyload:
   enable: false
