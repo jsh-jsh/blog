@@ -132,7 +132,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://tenapi.cn/acg/
+    - http://awa-qwq-yun.test.upcdn.net/img/6a600c338744ebf82fb24242daf9d72a6159a78f.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
