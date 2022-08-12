@@ -124,15 +124,15 @@ category_per_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: false
+  index_enable: true
   aside_enable: false
   archives_enable: false
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
-  position: both
+  position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     # - https://tenapi.cn/acg/
+    - https://tenapi.cn/acg/
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
