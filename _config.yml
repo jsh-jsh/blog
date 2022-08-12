@@ -120,7 +120,7 @@ local_search:
     hits_empty: "We didn't find any results for the search: ${query}" # 如果没有查到内容相关内容显示
 
 lazyload:
-  enable: true
+  enable: false
   loadingImg: /img/loading.gif
 
 encrypt:
