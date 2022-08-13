@@ -868,7 +868,6 @@ inject:
   head:
     - <meta name="msvalidate.01" content="04099DF5904654829377101F8D6EF156" />
     - <meta name="google-site-verification" content="0E_AM48ES4XYwShTo3o_c_wgKPaczomTgihB6b4Nm-E" />
-    - <meta name="referrer" content="never" />
   bottom:
     # - <script src="xxxx"></script>
     - <script src="https://fastly.jsdelivr.net/npm/vue@2.6.11"></script>
