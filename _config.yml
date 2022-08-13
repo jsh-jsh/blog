@@ -120,8 +120,8 @@ local_search:
     hits_empty: "对于 ${query} 没有任何信息" # 如果没有查到内容相关内容显示
 
 lazyload:
-  enable: false
-  loadingImg: /img/loading.gif
+  enable: true
+  loadingImg: https://cuicsi.cn/wp-content/uploads/2022/05/80-5.gif
 
 encrypt:
     enable: true
