@@ -1,11 +1,14 @@
 ---
+abbrlink: ''
+categories:
+- 轻小说
+cover: http://awa-qwq-yun.test.upcdn.net/img/%E5%AE%8B%20%E7%99%BD%E7%8E%89%E9%BE%99%E5%BD%A2%E5%9D%A0.png
+date: '2022-03-06 15:28:25'
+tags:
+- 轻小说
 title: Ta
-date: 2022-03-06 15:28:25
-tags: 轻小说
-categories: 轻小说
----
-
-## 前言
+updated: '2022-08-13 08:34:01'
+---## 前言
 
 我想，我可能是唯一知道真相的 ~~实验体~~ 人类了，抱歉，我还是忍不住写下这三个字。读完下面的结论吧，至少，真相不会被埋没的，是吗？
 
@@ -104,6 +107,3 @@ asjdhfweuwv839(38nou4ih wjbcj eu8eio83v
 三级行为：语言接触
 二级行为：肢体接触
 一级行为：眼神接触
-
-
-
