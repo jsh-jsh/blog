@@ -19,7 +19,6 @@ menu:
    Said: /artitalk/
    say_to_me: /comments/
    admin: https://qexo-jsh-jsh.vercel.app/
-   cool: /cool/
 
 # Hide the child menu items in mobile sidebar
 hide_sidebar_menu_child: false
@@ -95,18 +94,18 @@ avatar:
 disable_top_img: true
 
 # The banner image of home page
-index_img: 
+index_img: https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/2022%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E.png
 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: 
+default_top_img: https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/2022%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E.png
 
 # The banner image of archive page
-archive_img: 
+archive_img: https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/2022%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E-%E6%97%A5%E6%99%B7.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E-%E5%A4%95%E9%98%B3.png
 
 # The banner image of tag page
 # format:
@@ -115,7 +114,7 @@ tag_per_img:
 
 # If the banner of category page not setting, it will show the top_img
 # note: category page, not categories page (子分類頁面的 top_img)
-category_img:
+category_img: https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E-%E6%B5%B7%E6%A3%A0.png
 
 # The banner image of category page
 # format:
@@ -526,7 +525,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: url(https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E-%E5%88%9D%E9%9B%AA.png)
 
 # Footer Background
 footer_bg: false
