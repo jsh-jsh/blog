@@ -132,7 +132,7 @@ cover:
   position: left
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - http://awa-qwq-yun.test.upcdn.net/img/2022%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E.png
+    - https://fastly.jsdelivr.net/npm/blog-cover@1.0.0/%E7%88%B1%E4%B8%8A%E7%B4%AB%E7%A6%81%E5%9F%8E.png
     
 
 # Replace Broken Images (替換無法顯示的圖片)
