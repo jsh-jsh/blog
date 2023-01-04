@@ -10,9 +10,9 @@ menu:
    # List||fas fa-list:
    #   Music: /music/ || fas fa-music
    #   Movie: /movies/ || fas fa-video
-   friend: /link/ || fas fa-link
+   friend: /links/ || fas fa-link
    About: /about/ || fas fa-heart
-   Said: /artitalk/
+   Said: /talks/
    say_to_me: /comments/
    admin: https://qexo-jsh-jsh.vercel.app/
 
