@@ -344,7 +344,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: 'https://twk.imoier.xyz/'
+  envId: 'https://twk.imoier.fun/'
   region:
   visitor: false
   option:
