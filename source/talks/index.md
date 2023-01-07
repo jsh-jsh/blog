@@ -7,4 +7,4 @@ updated: 2023-01-04 11:04:19
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/qexo-static@1.5.0/hexo/talks.min.css">
 <div id="qexot"></div>
-<script>showQexoTalks("qexot", "https://admin.imoier.xyz", 5)</script>
+<script>showQexoTalks("qexot", "https://admin.imoier.fun", 5)</script>
