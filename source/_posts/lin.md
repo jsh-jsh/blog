@@ -1,5 +1,5 @@
 ---
-abbrlink: qwq
+abbrlink: qwqawq
 categories:
 - - 随笔
 date: '2023-01-04 10:37:33'
