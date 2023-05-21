@@ -18,7 +18,7 @@ menu:
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  Link: /link/ || fas fa-link
+  Link: /links/ || fas fa-link
   About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
